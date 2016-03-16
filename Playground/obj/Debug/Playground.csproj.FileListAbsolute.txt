@@ -1,0 +1,11 @@
+c:\users\bretthargreaves\documents\visual studio 2013\Projects\eCommerce\Playground\bin\Debug\Playground.exe.config
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\Playground\bin\Debug\Playground.exe
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\Playground\bin\Debug\Playground.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\Playground\obj\Debug\Playground.exe
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\Playground\obj\Debug\Playground.pdb
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\bin\Debug\Playground.exe.config
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\bin\Debug\Playground.exe
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\bin\Debug\Playground.pdb
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\obj\Debug\Playground.exe
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\Playground\obj\Debug\Playground.pdb
