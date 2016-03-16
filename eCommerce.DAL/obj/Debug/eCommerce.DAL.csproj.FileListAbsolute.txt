@@ -1,0 +1,36 @@
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.Initial.resources
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddCostPrice.resources
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddedBasket.resources
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.Initial.resources
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddCostPrice.resources
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddedBasket.resources
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+C:\Users\jborthwick\Documents\clients\Internal\c#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
